@@ -1,4 +1,3 @@
-*.txt # Ignore any input/output files generated through testing
 
 # Created by https://www.gitignore.io/api/csharp,visualstudiocode
 
